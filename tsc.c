@@ -29,7 +29,7 @@
 #define LEN 32000
 #define LEN2 256
 
-#define ntimes 50000
+#define ntimes 100000
 
 #include <stdlib.h>
 #include <math.h>
